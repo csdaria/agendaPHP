@@ -20,9 +20,10 @@ El archivo database.php contiene la configuración de la conexión a la base de 
 
 * Se valida y procesa la información del formulario de registro.
 * Se verifica la existencia del usuario y se inicia sesión.
-Gestión de Contactos en index.php
 
-#### Añadir nuevo contacto
+#### Gestión de Contactos en index.php
+
+* Añadir nuevo contacto
 * Visualizar lista de contactos con opciones de actualizar y eliminar.
 * Eliminar un contacto específico o borrar toda la agenda.
 
@@ -32,10 +33,10 @@ Gestión de Contactos en index.php
 
 #### Cerrar Sesión
 
-Página para cerrar la sesión del usuario.
+* Página para cerrar la sesión del usuario.
 
 #### Estilo y Diseño
-* Se utiliza el framework de diseño Roboto de Google Fonts
+* Se utiliza Google Fonts
 * La interfaz se divide en dos secciones con efectos visuales al interactuar con cada sección
 
 #### Problemas Conocidos
